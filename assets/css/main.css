@@ -2567,6 +2567,9 @@ input, select, textarea {
 		.work-item h3 {
 			font-size: 1em;
 			margin: 0 0 0.5em 0;
+			font-weight: 600;
+			font-style: italic;
+			letter-spacing: 1px;
 		}
 
 		.work-item p {
