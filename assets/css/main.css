@@ -157,8 +157,11 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.4em;
 		line-height: 1.5em;
+		font-weight: 600;
+		font-style: italic;
+		letter-spacing: 1px;
 	}
 
 	h4 {
